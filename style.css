@@ -1,12 +1,12 @@
 HEAD
 h4 {
     background-color: darkorange;
-    font-size: 28px;
-    display: flex;
 }
 
 body {
     font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
+    font-size: 28px;
+    display: flex;
 }
 
 a:hover { color: chartreuse;
