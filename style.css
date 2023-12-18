@@ -19,18 +19,13 @@ a:visited { color: dodgerblue;
     text-decoration: solid;
 }
 
-body {
-    color: yellowgreen;
-}
 /*Commento*/
 
 h4 {
     background-color: darkorange;
     color: rebeccapurple;
 }
-body {
-    color: rebeccapurple
-}
+
 
 a:hover { color: chartreuse;
     text-decoration: underline;
@@ -42,7 +37,4 @@ a:visited { color: dodgerblue;
     text-decoration: solid;
 }
 
-body {
-    color: yellowgreen
-}
 /*Commento*/
