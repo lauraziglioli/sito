@@ -1,4 +1,28 @@
-<<<<<<< HEAD
+HEAD
+h4 {
+    background-color: darkorange;
+    color: rebeccapurple;
+}
+body {
+    color: rebeccapurple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover { color: chartreuse;
+    text-decoration: underline;
+    font-weight: 700;
+
+}
+
+a:visited { color: dodgerblue;
+    text-decoration: solid;
+}
+
+body {
+    color: yellowgreen;
+}
+/*Commento*/
+
 h4 {
     background-color: darkorange;
     color: rebeccapurple;
@@ -21,27 +45,3 @@ body {
     color: yellowgreen
 }
 /*Commento*/
-=======
-h4 {
-    background-color: darkorange;
-    color: rebeccapurple;
-}
-body {
-    color: rebeccapurple
-}
-
-a:hover { color: chartreuse;
-    text-decoration: underline;
-    font-weight: 700;
-
-}
-
-a:visited { color: dodgerblue;
-    text-decoration: solid;
-}
-
-body {
-    color: yellowgreen
-}
-/*Commento*/
->>>>>>> 9c437fd1ac9e70a8b794e0b0a164df0dbbb1c4e9
