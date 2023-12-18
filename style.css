@@ -5,7 +5,6 @@ h4 {
 }
 
 body {
-    color: rebeccapurple;
     font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
 }
 
@@ -21,20 +20,9 @@ a:visited { color: dodgerblue;
 
 /*Commento*/
 
-h4 {
-    background-color: darkorange;
-    color: rebeccapurple;
+div { background-color: blue;
 }
 
 
-a:hover { color: chartreuse;
-    text-decoration: underline;
-    font-weight: 700;
-
-}
-
-a:visited { color: dodgerblue;
-    text-decoration: solid;
-}
 
 /*Commento*/
