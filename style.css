@@ -1,29 +1,75 @@
-HEAD
-h4 {
-    background-color: darkorange;
-}
-
-body {
+body { 
+    color: rgb(32, 23, 20, .9);
     font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
-    font-size: 28px;
+    font-size: 1em;
     display: flex;
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+    height: 100vh;
+    overflow-y: hidden;
 }
 
-a:hover { color: chartreuse;
+a { 
+    color: black;
+    border-bottom: 1px solid black;
+    text-decoration: none;
+}
+
+a:hover { 
+    color: black;
     text-decoration: underline;
-    font-weight: 700;
-
 }
 
-a:visited { color: dodgerblue;
-    text-decoration: solid;
+a:visited { 
+    color: grey;
+    text-decoration: line-through;
 }
 
 /*Commento*/
 
-div { background-color: blue;
+div { 
+    width: 20%;
+    padding: 0px 5px 0px 5px;
+    overflow-y: scroll;
+
 }
 
+div.uno, div.due, div.tre, div.quattro { 
+    border-right: 1px solid black;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    margin: 0;
+    font-size: 1.3em;
+    font-weight: normal;
+    position: fixed;
+    background-color: white;
+    width: 20% - 10px;
+}
+
+div.due time {
+    font-size: 1.18em;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+div::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+div {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+  div.separatore {
+    margin-top: 30px;
+  }
 
 
 /*Commento*/
